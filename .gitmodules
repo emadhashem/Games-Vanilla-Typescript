@@ -1,3 +1,6 @@
 [submodule "snake-game"]
 	path = snake-game
 	url = https://github.com/emadhashem/snake-game.git
+[submodule "algorithm-visualizer"]
+	path = algorithm-visualizer
+	url = https://github.com/emadhashem/algorithm-visualizer.git
